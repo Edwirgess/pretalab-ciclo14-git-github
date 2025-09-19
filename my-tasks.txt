@@ -1,0 +1,5 @@
+Minhas tarefas diárias:
+- Estudar Git e GitHub
+- Praticar commit e push
+- Revisar códigos
+- Planejar estudos
